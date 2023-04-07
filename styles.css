@@ -1,0 +1,131 @@
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+  
+  }
+  body{
+    font-family: "Montserrat";
+  }
+  .container-fluid{
+    padding: 3% 5% 7%;
+  }
+  h1{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 900;
+    font-size: 2.5rem;
+    line-height: 1.5;
+  }
+  .navbar{
+    padding: 0 0 4.5rem;
+  }
+  .nav-item{
+    padding: 0 18px;
+  }
+  .nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    font-weight: 100;
+  }
+  .navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  /* Download buttons */
+  
+  .download-button{
+    margin: 5% 3% 5% 0;
+    font-size: 1rem;
+  }
+  
+  /*title image*/
+  .title-image{
+    width: 60%;
+    transform: rotate(27deg);
+    position: absolute;
+    right: 30%;
+  }
+  .col3{
+    padding: 15% 4%;
+    text-align: center;
+  }
+  #features{
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #fff;
+    position: relative;
+  }
+  
+  h3{
+    font-style: "Montserrat";
+    font-weight: bold;
+    font-size: 1.3rem;
+  }
+  .stylecon{
+    color:  #ef8172;
+    /*height: 35px;*/
+    margin-bottom: 1rem;
+  
+  }
+  .stylecon:hover{
+    color: #ff4c68;
+  }
+  p{
+    color: #8f8f8f;
+    font-size: 1rem;
+  }
+  
+  /*testimonials section*/
+  #testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+  }
+  h2{
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.5;
+  }
+  .testimonial_image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+  
+  /*press section*/
+  #press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+  }
+  .press-log{
+    width: 15%;
+    margin: 20px 20px 50px;
+  }
+  .left1{
+    padding-right:13%;
+  }
+  .right1{
+    padding-left: 13%;
+  }
+  /*pricing section*/
+  #pricing{
+    padding: 100px;
+    text-align:center;
+  }
+  .col2{
+    padding: 3% 2%;
+  }
+  #cta{
+    color: #ef8172;
+    text-align: center;
+  }
+  #footer{
+    background-color: #ff4c68;
+  }
+  #lastelm{
+   color:black;
+    text-align: center;
+  }
